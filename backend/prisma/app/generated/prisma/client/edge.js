@@ -171,7 +171,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "/Users/maguettediouf/Desktop/mg-resrevation/backend/prisma/app/generated/prisma/client",
+      "value": "C:\\Users\\gajan\\Documents\\mg-resrevation\\backend\\prisma\\app\\generated\\prisma\\client",
       "fromEnvVar": null
     },
     "config": {
@@ -180,12 +180,12 @@ const config = {
     "binaryTargets": [
       {
         "fromEnvVar": null,
-        "value": "darwin-arm64",
+        "value": "windows",
         "native": true
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "/Users/maguettediouf/Desktop/mg-resrevation/backend/prisma/schema.prisma",
+    "sourceFilePath": "C:\\Users\\gajan\\Documents\\mg-resrevation\\backend\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
